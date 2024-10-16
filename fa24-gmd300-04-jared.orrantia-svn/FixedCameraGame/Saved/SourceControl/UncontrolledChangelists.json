@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jared.orrantia/Documents/GitHub/UnRealGameTech2/fa24-gmd300-04-jared.orrantia-svn/FixedCameraGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/jared.orrantia/Documents/GitHub/UnRealGameTech2/fa24-gmd300-04-jared.orrantia-svn/FixedCameraGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacterNoCam.uasset",
+				"C:/Users/jared.orrantia/Documents/GitHub/UnRealGameTech2/fa24-gmd300-04-jared.orrantia-svn/FixedCameraGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"C:/Users/jared.orrantia/Documents/GitHub/UnRealGameTech2/fa24-gmd300-04-jared.orrantia-svn/FixedCameraGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
+				"C:/Users/jared.orrantia/Documents/GitHub/UnRealGameTech2/fa24-gmd300-04-jared.orrantia-svn/FixedCameraGame/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/jared.orrantia/Documents/GitHub/UnRealGameTech2/fa24-gmd300-04-jared.orrantia-svn/FixedCameraGame/Content/ThirdPerson/Blueprints/BP_StaticCameraGM.uasset",
+				"C:/Users/jared.orrantia/Documents/GitHub/UnRealGameTech2/fa24-gmd300-04-jared.orrantia-svn/FixedCameraGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TJ/71M24A1UBGRZ5LSW21G7JJ.uasset",
+				"C:/Users/jared.orrantia/Documents/GitHub/UnRealGameTech2/fa24-gmd300-04-jared.orrantia-svn/FixedCameraGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/3V/CC4T6AN84S8713M7YBX4LM.uasset",
+				"C:/Users/jared.orrantia/Documents/GitHub/UnRealGameTech2/fa24-gmd300-04-jared.orrantia-svn/FixedCameraGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/M6/UU4NU5BFER0FQXNWLFG5QS.uasset",
+				"C:/Users/jared.orrantia/Documents/GitHub/UnRealGameTech2/fa24-gmd300-04-jared.orrantia-svn/FixedCameraGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/81/CLNZY9NIS0JWA3O09C2RT9.uasset"
+			]
+		}
+	]
+}
